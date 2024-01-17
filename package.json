@@ -1,0 +1,18 @@
+{
+  "name": "date-fns-tz",
+  "version": "2.0.1",
+  "description": "TypeScript fork of date-fns-tz",
+  "main": "index.ts",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RepublicServicesRepository/date-fns-tz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RepublicServicesRepository/date-fns-tz/issues"
+  },
+  "homepage": "https://github.com/RepublicServicesRepository/date-fns-tz#readme"
+}
