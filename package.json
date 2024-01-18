@@ -1,5 +1,5 @@
 {
-  "name": "date-fns-tz",
+  "name": "@republicservices/date-fns-tz",
   "version": "2.0.1",
   "description": "TypeScript fork of date-fns-tz",
   "main": "index.ts",
